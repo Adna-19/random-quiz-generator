@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#page-header{
+	text-align: center;
+	font-size: 45px;
+}
+.students-info-banner{
+	margin-left: 10%;
+	padding-left: 10px;
+	padding-top: 10px;
+	width: 18%;
+	height: auto;
+	border: 1px solid black;
+	padding-bottom: 10px;
+}
+.students-info-banner h3{
+	font-size: 25px;
+}
+.students-info{
+	list-style-type: none;
+	margin-left: 20px;
+}
+.students-info li{
+	font-size: 18px;
+}
+hr{
+	width: 85%;
+	margin: auto;
+}
+.question{
+	margin-left: 11%;
+	font-size: 22px;
+}
+.options{
+	margin-left: 13%;
+	padding-top: 5px;
+	font-size: 20px;
+}
+.options label{
+	margin-left: 25px;
+}
